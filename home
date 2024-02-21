@@ -1,0 +1,13 @@
+$ git checkout -b gh-pages
+Switched to a new branch 'gh-pages'
+
+$ git remote add origin git@github.com:supersmashdelft/home.git
+$ git push -u origin gh-pages
+Counting objects: 27, done
+Delta compression using up to 8 threads.
+Compressing objects: 100% (25/25), done.
+Writing objects: 100% (27/27), 28.67 KiB | 0 bytes
+Total 27 (delta 3), reused 0 (delta 0)
+remote: REvsolving deltas: 100% (3/3), done.
+To github.com:supersmashdelft/home.git
+* [new branch]    gh-pages -> gh-pages
